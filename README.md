@@ -23,4 +23,4 @@ git commit -m 'Changes'
 git push origin gh-pages
 ```
 
-Then you're done! Navigate then to <username>.github.io/PebblePages (it may take a while for GitHub to update).
+Then you're done! Navigate then to username.github.io/PebblePages (it may take a while for GitHub to update).
